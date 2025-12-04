@@ -5,7 +5,7 @@ The report explores job demand, salaries, locations, company ratings, and skills
 
 ### 📊 Job Market Overview
 <img width="1309" height="735" alt="image" src="https://github.com/user-attachments/assets/2a84efbb-4531-4000-841b-ab2daaa495ca" />
- ### 📊 Roles_Education_Skills
+ 📊 Roles_Education_Skills
 <img width="1305" height="730" alt="image" src="https://github.com/user-attachments/assets/1723a6b8-a8e0-49ff-97d2-751e5b0c3bfe" />
 
 ---
