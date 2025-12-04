@@ -3,6 +3,9 @@
 This repository contains a complete Power BI project that analyzes the **Data Science & Analytics job market** using real-world job postings data.  
 The report explores job demand, salaries, locations, company ratings, and skills required for different job titles.
 
+## `Job Market Overview`<img width=("1309" height="735" alt="image" src="https://github.com/user-attachments/assets/2a84efbb-4531-4000-841b-ab2daaa495ca" />)
+
+
 ---
 
 ## 🚀 Project Overview
